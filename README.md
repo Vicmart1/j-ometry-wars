@@ -10,3 +10,5 @@ Run jometrywars.jar (Must have java installed)
 <li>Arrow Keys - Fire</li>
 <li>Space - Bomb</li>
 </ul>
+
+<footer>Copyright 2015 Vicmart Inc, All Rights Reserved</footer>
