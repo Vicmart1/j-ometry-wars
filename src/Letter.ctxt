@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=type\ pos\ target\ col\ size\ GUI
+comment0.target=Letter(char,\ Vector2,\ Vector2,\ java.awt.Color,\ int,\ boolean)
+comment1.params=type
+comment1.target=void\ rename(char)
+comment2.params=
+comment2.target=void\ animate()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ explode()
+numComments=5

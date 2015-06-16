@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pos\ target
+comment0.target=Heart(Vector2,\ Vector2)
+comment1.params=factor
+comment1.target=void\ changeSizeFromOriginal(double)
+comment2.params=
+comment2.target=void\ animate()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=start\ end\ col\ box
+comment0.target=Axis(Vector2,\ Vector2,\ java.awt.Color,\ boolean)
+comment1.params=start\ end\ col\ box
+comment1.target=Axis(Axis,\ Axis,\ java.awt.Color,\ boolean)
+comment2.params=newPoint\ startOrEnd\ box
+comment2.target=void\ setStartorEnd(Vector2,\ boolean,\ boolean)
+comment3.params=
+comment3.target=void\ move()
+numComments=4

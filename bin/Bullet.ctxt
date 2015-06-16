@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=pos\ target\ rads
+comment0.target=Bullet(Vector2,\ Vector2,\ double)
+comment1.params=rads
+comment1.target=void\ rotate(double)
+numComments=2
